@@ -1,4 +1,4 @@
-# First steps to frontend / backbegin, or how to improve your sence of humor:
+# First steps to frontend
 Hi, everyone. So, I've passed through "git basis". To be honest - I was total noob in it, did not know whats repo, commit etc is.
 Never the less - seems to be ok, passed, not perfect, but doing my best.
 
